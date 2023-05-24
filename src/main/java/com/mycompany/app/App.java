@@ -10,7 +10,6 @@ public class App {
     private static final String MESSAGE = "Hello World!";
 
     public App() {}
-    private abc;
 
     private void add(){
 	int abc;
