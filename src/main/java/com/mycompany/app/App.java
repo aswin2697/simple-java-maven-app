@@ -13,7 +13,7 @@ public class App {
     private abc;
 
     private void add(){
-
+	int abc;
 
 
 
